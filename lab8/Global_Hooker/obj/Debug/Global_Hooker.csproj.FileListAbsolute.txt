@@ -1,0 +1,14 @@
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\bin\Debug\Global_Hooker.exe.config
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\bin\Debug\Global_Hooker.exe
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\bin\Debug\Global_Hooker.pdb
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\bin\Debug\Gma.System.MouseKeyHook.dll
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\bin\Debug\GodSharp.Encryption.dll
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\bin\Debug\GodSharp.SerialPort.dll
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\bin\Debug\GodSharp.SerialPort.xml
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\obj\Debug\Global_Hooker.Form1.resources
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\obj\Debug\Global_Hooker.Properties.Resources.resources
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\obj\Debug\Global_Hooker.csproj.GenerateResource.Cache
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\obj\Debug\Global_Hooker.csproj.CoreCompileInputs.cache
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\obj\Debug\Global_Hooker.exe
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\obj\Debug\Global_Hooker.pdb
+G:\8\IaPD-master\Global_Hooker\Global_Hooker\obj\Debug\Global_Hooker.csprojResolveAssemblyReference.cache
